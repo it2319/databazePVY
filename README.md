@@ -1,5 +1,7 @@
 # Databáze PVY — detailní popis struktury
 
+![betterUkol diagram](betterUkol.png)
+
 Databáze v dbdiagram.io: https://dbdiagram.io/d/betterUkol-6914a1f76735e111707b21ae
 
 
