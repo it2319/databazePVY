@@ -1,5 +1,8 @@
 # Databáze PVY — detailní popis struktury
 
+Databáze v dbdiagram.io: https://dbdiagram.io/d/betterUkol-6914a1f76735e111707b21ae
+
+
 Tento README je zaměřený na datový model: tabulky, sloupce, primární a cizí klíče a vztahy mezi entitami. Repozitář obsahuje dva SQL soubory (`betterUkol.sql` a `restaurace_palyza.sql`) a skript `faker_data_restaurace.py` pro generování testovacích dat.
 
 Zjednodušený přehled entit:
